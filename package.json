@@ -1,8 +1,8 @@
 {
+  "homepage": "https://mrjazzcat.github.io/sonarscreen",
   "name": "sonarscreen",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mrjazzcat.github.io/sonarscreen",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
