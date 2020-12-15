@@ -2,7 +2,7 @@
   "name": "sonarscreen",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://open-diamante.github.io/sonarscreen",
+  "homepage": "https://mrjazzcat.github.io/sonarscreen",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
@@ -44,6 +44,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^3.1.0",
+    "react-desc": "^4.1.2"
   }
 }
