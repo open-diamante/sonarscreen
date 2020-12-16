@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/sonarscreen/static/js/main.f7975b03.chunk.js",
-    "main.js.map": "/sonarscreen/static/js/main.f7975b03.chunk.js.map",
+    "main.js": "/sonarscreen/static/js/main.c462231b.chunk.js",
+    "main.js.map": "/sonarscreen/static/js/main.c462231b.chunk.js.map",
     "runtime-main.js": "/sonarscreen/static/js/runtime-main.c1c6dff2.js",
     "runtime-main.js.map": "/sonarscreen/static/js/runtime-main.c1c6dff2.js.map",
     "static/js/2.003d2190.chunk.js": "/sonarscreen/static/js/2.003d2190.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.c1c6dff2.js",
     "static/js/2.003d2190.chunk.js",
-    "static/js/main.f7975b03.chunk.js"
+    "static/js/main.c462231b.chunk.js"
   ]
 }
